@@ -1,0 +1,105 @@
+body{
+    margin:0;
+    font-family:"Cooper";
+    font-size:15px;
+    background:url(../img/11.jpg);
+    background-size: cover;
+}
+.left{
+    width:200px;
+    height:300px;
+    position: absolute;
+    top:10px;
+    left: 10px;
+
+}
+.shuo{
+    width:30px;
+    height:150px;
+    font-size: 16px;
+    position:absolute;
+    bottom:0;
+    left:0;
+    border-radius:4px;
+    text-align: center;
+    line-height:37px;
+    background: rgb(241, 232, 207);
+}
+.guize{
+    width: 172px;
+    height:160px;
+    position:absolute;
+    bottom:0;
+    left:37px;
+    border-radius: 8px;
+    line-height: 23px;
+    text-align: center;
+    display: none;
+    background: #D8B98D;
+}
+.right{
+    width:200px;
+    height:300px;
+    position: absolute;
+    top:10px;
+    right: 10px;
+
+}
+.maxpoker{
+    width:800px;
+    height:750px;
+    margin:0 auto;
+    position: relative;
+}
+
+
+.pk{
+     width:100px;
+     height: 150px;
+     color:#000;
+     font-size:16px;
+     border-radius: 5px;
+     background: rgba(255,23,20,0.5);
+     box-shadow: 0 2px 1px black;
+    -webkit-transition:all 0.5s ease;
+    transition:all 0.5s ease;
+}
+.pk11{
+     width:100px;
+     height: 150px;
+     color:#000;
+     font-size:16px;
+     border-radius: 5px;
+     box-shadow: 0 2px 1px black;
+}
+.lpoker{
+     width:100px;
+     height: 150px;
+     position: absolute;
+     left:150px;
+     bottom:100px;
+     border-radius: 5px;
+     background: rgba(255,23,20,0.5);
+     box-shadow: 0 2px 1px black;
+}
+.rpoker{
+    width:100px;
+    height: 150px;
+    position:absolute;
+    right:150px;
+    bottom:100px;
+}
+.anniu{
+    width:70px;
+    height:35px;
+}
+.yidong{
+    position: absolute;
+    left:370px;
+    bottom:180px;
+}
+.fanhui{
+    position: absolute;
+    left:370px;
+    bottom:120px;
+}
